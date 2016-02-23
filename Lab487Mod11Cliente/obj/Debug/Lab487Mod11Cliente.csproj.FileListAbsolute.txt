@@ -1,1 +1,16 @@
 c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\bin\Debug\Lab487Mod11Cliente.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\bin\Debug\Lab487Mod11Cliente.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\bin\Debug\Lab487Mod11Cliente.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\MainWindow.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\App.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente_MarkupCompile.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente_MarkupCompile.lref
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\MainWindow.baml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente.g.resources
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\obj\Debug\Lab487Mod11Cliente.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\bin\Debug\Microsoft.WindowsAzure.ActiveDirectory.Authentication.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod11Cliente\Lab487Mod11Cliente\bin\Debug\Microsoft.WindowsAzure.ActiveDirectory.Authentication.xml
